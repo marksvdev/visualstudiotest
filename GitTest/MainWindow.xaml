@@ -4,6 +4,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Button>Hello World!</Button>
-        <TextBlock>hello World number 4</TextBlock>
+        <TextBlock>hello World number 7</TextBlock>
     </Grid>
 </Window>
